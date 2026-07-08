@@ -66,16 +66,14 @@ Provides insights into:
 ## 📷 Dashboard Preview
 
 ### Executive Summary
+![Executive Summary](Executive%20Summary.png)
 
-*(Insert Executive Summary screenshot here)*
 
 ### Sales Analysis
-
-*(Insert Sales Analysis screenshot here)*
+![Sales Analysis](Sales%20Analysis.png)
 
 ### Customer Reviews
-
-*(Insert Customer Reviews screenshot here)*
+![Customer Reviews](Customer%20Reviews.png)
 
 ---
 
